@@ -1,8 +1,8 @@
 {
-  "id": "/",
+  "id": "/my-resume/",
   "name": "My Resume",
   "short_name": "Resume",
-  "start_url": "/",
+  "start_url": "/my-resume/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
