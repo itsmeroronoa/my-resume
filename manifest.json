@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "background_color": "#2000ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "resume",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "resume",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ]
+}
