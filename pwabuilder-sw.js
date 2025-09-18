@@ -1,5 +1,4 @@
-// pwabuilder-sw.js
-
+// Simple service worker to cache your site
 self.addEventListener("install", (event) => {
   console.log("Service Worker installing.");
   self.skipWaiting();
